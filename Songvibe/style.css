@@ -1,8 +1,0 @@
-body {
-  background-image: linear-gradient(rgb(87, 37, 59), rgb(74, 31, 50));
-  height: 100vh;
-  color: white;
-  font-family: sans-serif;
-  display: flex;
-  flex-direction: column;
-}
