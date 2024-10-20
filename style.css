@@ -1,11 +1,17 @@
 body {
-  background-image: linear-gradient(rgb(87, 37, 59), rgb(74, 31, 50));
+  background-image: linear-gradient(rgb(75, 114, 93), rgb(111, 156, 126));
   height: 100vh;
   color: white;
   font-family: sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+button {
+  background-color: inherit;
+  color: inherit;
+  border: none;
 }
 
 #below-cover {
@@ -53,11 +59,11 @@ body {
 }
 
 .light-color {
-  color: rgb(139, 153, 156);
+  color: rgb(193, 196, 197);
 }
 
 #progess-bar {
-  background-color: rgb(139, 153, 156);
+  background-color: rgb(193, 196, 197);
   height: 3px;
   width: 100%;
   border-radius: 15px;
